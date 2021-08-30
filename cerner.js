@@ -1,5 +1,5 @@
     window['CernerSmartEmbeddableLib'].calcFrameHeight = function () {
         return 1000;
     };
-    alert(JSON.stringify(window['CernerSmartEmbeddableLib'].calcFrameHeight));
+    alert('script loaded');
     console.log(window['CernerSmartEmbeddableLib']);
